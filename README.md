@@ -5,6 +5,7 @@ A Language Server built for the educational purpose of understanding WHAT LSP is
 Built by referencing:
 - [repo](https://github.com/tjdevries/educationalsp)
 - [video](https://www.youtube.com/watch?v=YsdlcQoHqPY)
+
 But it was built instead in [odin](https://odin-lang.org/)
 
 To set it up in my config NvChad:
