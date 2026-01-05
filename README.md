@@ -21,11 +21,12 @@ if not configs.mylsp then
     },
   }
 
-  lspconfig.mylsp.setup {
-    on_attach = on_attach,
-    capabilities = capabilities,
-  }
 end
+
+lspconfig.mylsp.setup {
+  on_attach = on_attach,
+  capabilities = capabilities,
+}
 ```
 
 ```md
